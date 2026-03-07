@@ -9,7 +9,7 @@ const experiences = [
 		title: "Software Engineer I",
 		company: "Cvent",
 		duration: "Jul 2025 – Present",
-		location: "Remote",
+		location: "Gurugram, India",
 		highlights: [
 			"Developed GraphQL APIs using Next.js (Apollo), including schema design, resolvers, validation, and structured error handling, improving API reliability and reducing runtime failures",
 			"Built reusable Next.js UI components and integrated Gainsight analytics for product tracking and usage insights",
@@ -26,7 +26,7 @@ const experiences = [
 		title: "Software Engineer Intern",
 		company: "Cvent",
 		duration: "Jan 2025 – Jun 2025",
-		location: "Remote",
+		location: "Gurugram, India",
 		highlights: [
 			"Improved performance and SEO of key flows by supporting migration to Next.js SSR and optimizing frontend rendering",
 			"Developed REST APIs with proper validation, maintainable structure, and clean error responses",
